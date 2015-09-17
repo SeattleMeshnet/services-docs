@@ -12,7 +12,7 @@ UWave email.
 ## Configuring Gmail to send email from your UWave email
 This is a bit trickier, but still pretty easy.
 
-First, sign into your Gmail accound and open settings:
+First, sign into your Gmail account and open settings:
 
 ![](../assets/img/settings-menu.png)
 
